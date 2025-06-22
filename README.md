@@ -5,7 +5,7 @@ This is the 3D printable case for the new Nintendo Switch 2 Dock.
 - Better for heat accumulation issue
 - Capable of moving NS2 by using extension Type-C cable
 - Easy to swap from the original NS2 dock 
-- Compattible to most big carry cases, i.e. Savage Raven MaxCarry case
+- Compatible to most big carry cases, i.e. Savage Raven MaxCarry case
 
 
 # 3D views
