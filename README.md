@@ -10,10 +10,10 @@ This is the 3D printable case for the new Nintendo Switch 2 Dock.
 
 # 3D views
 - Top Case
-<img src="https://github.com/user-attachments/assets/09c499c4-5c1e-430a-a696-466ea1de0a11" width=80% height=80%>
+<img src="https://github.com/user-attachments/assets/4fb5bbc1-d3c5-4f20-b654-ee904b99d5cf" width=80% height=80%>
 
 - Bottom Case
-<img src="https://github.com/user-attachments/assets/fa87d9ba-b0d3-4330-9444-35feedb07eb3" width=80% height=80%>
+<img src="https://github.com/user-attachments/assets/d31806fa-3d58-4369-90a3-13a71de3135c" width=80% height=80%>
 
 
 Please let me know if you have better suggestions on the case, thanks !
