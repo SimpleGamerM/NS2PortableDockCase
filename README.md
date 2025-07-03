@@ -17,3 +17,6 @@ This is the 3D printable case for the new Nintendo Switch 2 Dock.
 
 
 Please let me know if you have better suggestions on the case, thanks !
+
+Here's a complete instruction of how to make the portable dock.
+https://www.youtube.com/watch?v=jcsrO2XYi0k
